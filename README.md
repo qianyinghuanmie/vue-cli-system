@@ -28,15 +28,16 @@
 
     1、安装
 
-    ```js
-      //全局安装
-      npm install -g webpack
-      //安装到你的项目目录
-      npm install --save-dev webpack
-      //初始化
-      npm init
+      ```js
+        //全局安装
+        npm install -g webpack
+        //安装到你的项目目录
+        npm install --save-dev webpack
+        //初始化
+        npm init
 
-    ```
+      ```
+
     2、新建配置文件
 
   根目录下的配置文件
