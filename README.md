@@ -15,12 +15,12 @@
 
   #### 1、安装koa
 
-    ```
+  ```js
     $ nvm install 7
     $ npm i koa
     $ node my-koa-app.js
-
-    ```
+      
+  ```
 
   #### 2、安装webpack
 
@@ -28,7 +28,7 @@
 
     1、安装
 
-    ```
+    ```js
     //全局安装
     npm install -g webpack
     //安装到你的项目目录
