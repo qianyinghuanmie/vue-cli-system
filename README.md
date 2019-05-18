@@ -54,6 +54,7 @@
   --|:--:
   index.js| 服务入口
   koa-dev-server.js| koa测试环境配置
+  koa-prod-server.js| koa正式环境配置
 
 
   #### 3、需要使用到的一些包的安装
@@ -66,3 +67,13 @@
   ```
     npm install cross-env --save-dev
   ```
+
+  #### 4、中间件的使用
+
+  config目录下的utils下使用的中间件
+
+  名称|描述
+  --|:--:
+  index.js| 服务入口
+  koa-dev-server.js| koa测试环境配置
+  koa-prod-server.js| koa正式环境配置
