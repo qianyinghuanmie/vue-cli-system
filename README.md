@@ -28,7 +28,7 @@
 
     1、安装
 
-      ```js
+    ```js
       //全局安装
       npm install -g webpack
       //安装到你的项目目录
