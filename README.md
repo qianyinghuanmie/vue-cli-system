@@ -117,7 +117,7 @@
   ```
   13、[autoprefixer](https://github.com/postcss/autoprefixer):Parse CSS and add vendor prefixes to rules by Can I Use
   ```
-  npm install  autoprefixer--save-dev
+  npm install  autoprefixer --save-dev
   ```
   14、[postcss-pxtorem](https://github.com/cuth/postcss-pxtorem)：Convert pixel units to rem (root em) units using PostCSS
   ```
@@ -154,7 +154,7 @@
   ```
   22 [json-loader](https://github.com/webpack-contrib/json-loader):json loader module for webpack - UNMAINTAINED
   ```
-  npm install json-loader--save-dev
+  npm install json-loader --save-dev
   ```
   23、[url-loader](https://github.com/webpack-contrib/url-loader):A loader for webpack which transforms files into base64 URIs
   ```
@@ -164,7 +164,10 @@
   ```
   npm install koa-compress --save-dev
   ```
-  25、[]
+  25、[ vue-template-compiler](https://www.npmjs.com/package/vue-template-compiler)
+  ```
+  npm install vue-template-compiler --save-dev
+  ```
   #### 4、中间件的使用
 
   config目录下的utils下使用的中间件
