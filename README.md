@@ -164,9 +164,29 @@
   ```
   npm install koa-compress --save-dev
   ```
-  25、[ vue-template-compiler](https://www.npmjs.com/package/vue-template-compiler)
+  25、[vue-template-compiler](https://www.npmjs.com/package/vue-template-compiler)
   ```
   npm install vue-template-compiler --save-dev
+  ```
+  26、[vue-router](https://github.com/vuejs/vue-router)
+  ```
+  npm install vue-router --save-dev
+  ```
+  27、[axios](https://github.com/axios/axios)
+  ```
+  npm install axios --save-dev
+  ```
+  28、[friendly-errors-webpack-plugin](https://github.com/geowarin/friendly-errors-webpack-plugin):Recognizes certain classes of webpack errors and cleans, aggregates and prioritizes them to provide a better Developer Experience.
+  ```
+  npm install friendly-errors-webpack-plugin --save-dev
+  ```
+  29、[postcss-loader](https://github.com/postcss/postcss-loader):PostCSS loader for webpack
+  ```
+  npm i -D postcss-loader
+  ```
+  30、[postcss](https://github.com/postcss/postcss):Transforming styles with JS plugins
+  ```
+  npm install postcss --save-dev
   ```
   #### 4、中间件的使用
 
