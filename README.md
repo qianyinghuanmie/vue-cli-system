@@ -188,6 +188,11 @@
   ```
   npm install postcss --save-dev
   ```
+  31、[koa-better-http-proxy](https://github.com/nsimmons/koa-better-http-proxy):Proxy middleware for Koa. Based on villadora/express-http-proxy
+  ```
+  npm install koa-better-http-proxy --save-dev
+  ```
+  32、
   #### 4、中间件的使用
 
   config目录下的utils下使用的中间件

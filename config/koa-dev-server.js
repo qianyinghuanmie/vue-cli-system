@@ -70,7 +70,7 @@ console.log('> Starting dev server...')
 
 devMiddleware.waitUntilValid(() => {
   console.log('> Listening at ' + uri + '\n')
-  opn(uri)
+  // open(uri)
 })
 
 // 错误处理
