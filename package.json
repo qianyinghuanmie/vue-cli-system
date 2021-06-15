@@ -41,7 +41,7 @@
     "koa-webpack-dev-middleware": "^2.0.2",
     "koa-webpack-hot-middleware": "^1.0.3",
     "open": "^6.3.0",
-    "postcss": "^7.0.16",
+    "postcss": "^7.0.36",
     "postcss-loader": "^3.0.0",
     "postcss-pxtorem": "^4.0.1",
     "stylus": "^0.54.5",
